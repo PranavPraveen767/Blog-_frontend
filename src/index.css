@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Caveat&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Caveat&family=Kalam&family=Merienda&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Caveat&family=Kalam&family=Kurale&family=Merienda&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Caveat&family=Kalam&family=Kurale&family=Labrada&family=Merienda&family=Salsa&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
